@@ -33,7 +33,7 @@ const Cart = () => {
             {/* ====================== Cart title Start here ======================= */}
             <div className="font-titleFont hidden xl:flex items-center justify-between border-b-[1px] border-b-gray-400 py-3">
               <h1 className="text-3xl font-semibold">Shopping Cart</h1>
-              <h3 className="text-xl font-semibold">Subtotal</h3>
+              <h3 className="text-xl font-semibold">Subtotal Amount</h3>
             </div>
             {/* ====================== Cart title End here ========================= */}
             {/* ====================== Products Start here ========================= */}
