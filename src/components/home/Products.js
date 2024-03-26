@@ -30,7 +30,7 @@ const Products = () => {
               alt="ProductImg"
             />
             {/* ================== Product mini drop down Start here ============ */}
-            <ul className="absolute w-full h-36 bg-gray-100 -bottom-[160px] group-hover:bottom-0 duration-700 flex flex-col justify-center items-end gap-2">
+            <ul className="absolute w-full h-35 bg-gray-100 -bottom-[160px] group-hover:bottom-0 duration-700 flex flex-col justify-center items-end gap-2">
               <li className="productLi">
                 Compare
                 <span>
