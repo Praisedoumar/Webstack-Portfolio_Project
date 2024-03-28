@@ -65,7 +65,7 @@ const Cart = () => {
                           onClick={() => {
                             dispatch(decreaseQuantity(item.id));
                           }}
-                          className="cursor-pointer bg-gray-200 px-2 rounded-sm hover:bg-gray-400 font-semibold duration-300"
+                          className="cursor-pointer bg-gray-200 px-3 rounded-sm hover:bg-gray-400 font-semibold duration-300"
                         >
                           -
                         </p>
