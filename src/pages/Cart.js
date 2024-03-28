@@ -74,7 +74,7 @@ const Cart = () => {
                         </p>
                         <p
                           onClick={() => dispatch(increaseQuantity(item.id))}
-                          className="cursor-pointer bg-gray-200 px-2 rounded-sm hover:bg-gray-400 font-semibold duration-300"
+                          className="cursor-pointer bg-gray-200 px-2 rounded-sm hover:bg-gray-500 font-semibold duration-300"
                         >
                           +
                         </p>
