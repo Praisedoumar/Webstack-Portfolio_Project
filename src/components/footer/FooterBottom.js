@@ -19,7 +19,7 @@ const FooterBottom = () => {
       {/* ======================= Bottom Start here =================== */}
       <div className="flex flex-col justify-center items-center px-4">
         <div>
-          <ul className="text-gray-400 text-sm gap-2 md:gap-4 py-3 mt-4 flex">
+          <ul className="text-gray-500 text-sm gap-2 md:gap-4 py-3 mt-4 flex">
             <li className="font-normal text-[11px] hover:underline cursor-pointer text-[#DDD] leading-3">
               Conditions of Use
             </li>
